@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;700&display=swap');
+:root{
+    --chakra-fonts-heading:'Alkatra', cursive !important;
+}
+html,body,.css-1dklj6k {
+    font-family: 'Alkatra', cursive !important;
+    
+}
+a:hover{
+  text-decoration: none !important;
+}
+hr{
+width: 100%;
+}
+.hr-mini{
+  width: 10%;
+}
